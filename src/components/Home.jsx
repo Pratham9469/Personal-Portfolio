@@ -3,7 +3,7 @@ import { ArrowDown, ArrowRight } from 'lucide-react'
 import gsap from 'gsap'
 import Typed from "typed.js";
 import { useGSAP } from '@gsap/react';
-import image from "../assets/images/image.png";
+import image from "../assets/images/Image.png";
 
 const Home = () => {
   const parentDiv = useRef(null);
